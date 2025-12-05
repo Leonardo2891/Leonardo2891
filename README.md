@@ -32,13 +32,6 @@
 
 ---
 
-## 🌟 Projetos em Destaque  
-
-- **[Desafio Lógica 3](https://github.com/Leonardo2891/Desafio-logica3/tree/main)**  
-  Projeto em JavaScript com classe genérica de herói e ataques personalizados.  
-
----
-
 ## 🎓 Formação  
 - CST em **Análise e Desenvolvimento de Sistemas** – Faculdade Senac DF  
 - MBA em **Finanças e Mercado de Capitais** – Descomplica Faculdade Digital  
@@ -47,6 +40,7 @@
 ---
 
 ## 🏆 Certificações  
+- Formação em CSS3 – DIO
 - Formação em HTML5 – DIO
 - Lógica de Programação – DIO  
 - Fundamentos de Hardware – Cisco  
