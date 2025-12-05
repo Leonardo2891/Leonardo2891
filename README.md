@@ -2,9 +2,9 @@
 
 🎯 **Desenvolvedor Web | Front-End | Python | JavaScript | CSS | HTML | Finanças**
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Senac DF e possuo **MBA em Finanças** pela Descomplica Faculdade Digital. Minha trajetória combina **competências financeiras e tecnológicas**, permitindo atuar em projetos que unem inovação, análise e desenvolvimento.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na Faculdade Senac DF e possuo **MBA em Finanças** pela Descomplica Faculdade Digital. Minha trajetória combina **competências finance[...] 
 
-Atualmente, trabalho como **estagiário na Controladoria-Geral do Distrito Federal**, colaborando na gestão e evolução de sites institucionais, com foco em **organização de conteúdo, experiência do usuário e melhorias visuais**.
+Atualmente, trabalho como **estagiário na Controladoria-Geral do Distrito Federal**, colaborando na gestão e evolução de sites institucionais, com foco em **organização de conteúdo, experiê[...]  
 
 ---
 
@@ -21,9 +21,10 @@ Atualmente, trabalho como **estagiário na Controladoria-Geral do Distrito Feder
 
 ## 📊 GitHub Stats
 
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo2891&show_icons=true&theme=radical)
+[![Followers](https://img.shields.io/github/followers/Leonardo2891?label=Follow&style=social)](https://github.com/Leonardo2891)  
+[![Top language](https://img.shields.io/github/languages/top/Leonardo2891?color=yellow&style=flat)](https://github.com/Leonardo2891)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo2891&layout=compact&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=Leonardo2891&theme=gruvbox)
 
 ---
 
