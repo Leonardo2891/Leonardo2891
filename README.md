@@ -6,10 +6,11 @@
 ---
 
 ## 🚀 Sobre mim  
-- Desenvolvedor **Front-End** com experiência em **HTML, CSS, Python e JavaScript**  
-- Estudante de **Análise e Desenvolvimento de Sistemas** – Faculdade Senac DF  
-- MBA em **Finanças e Mercado de Capitais** – Descomplica Faculdade Digital  
-- Interesse em unir **tecnologia e finanças** para soluções inovadoras  
+Cursando Análise e Desenvolvimento de Sistemas na Faculdade Senac DF, com MBA em Finanças pela Descomplica Faculdade Digital. Minha trajetória acadêmica e profissional reflete uma combinação estratégica entre competências financeiras e tecnológicas. 
+
+Desde setembro de 2025, atuo como estagiário na Controladoria-Geral do Distrito Federal, na Subcontroladoria de Transparência e Controle Social. Colaboro com a gestão dos sites institucionais, apoiando na organização de conteúdo, aprimoramento visual e funcional dos layouts, além da manutenção e evolução das plataformas digitais.
+
+Meu objetivo é integrar conhecimentos técnicos e financeiros para contribuir em projetos que promovam inovação tecnológica e resultados consistentes. Com habilidades em Python e programação lógica, almejo unir minha formação em tecnologia com minha experiência prévia em finanças para resolver desafios de forma criativa e eficiente.  
 
 ---
 
