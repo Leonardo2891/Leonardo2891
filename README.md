@@ -40,14 +40,5 @@
 
 ---
 
-## 🏆 Certificações  
-- Formação em CSS3 – DIO
-- Formação em HTML5 – DIO
-- Lógica de Programação – DIO  
-- Fundamentos de Hardware – Cisco  
-- Excel 2019 Básico – LinkedIn  
-- Análise de Balanços – Fundação Bradesco  
-
----
 
 
