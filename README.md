@@ -6,11 +6,11 @@
 ---
 
 ## 🚀 Sobre mim  
-Cursando Análise e Desenvolvimento de Sistemas na Faculdade Senac DF, com MBA em Finanças pela Descomplica Faculdade Digital. Minha trajetória acadêmica e profissional reflete uma combinação estratégica entre competências financeiras e tecnológicas. 
+Sou estudante de Análise e Desenvolvimento de Sistemas, com formação complementar em Finanças, atuando na área de desenvolvimento front-end com foco em organização, manutenção e evolução de plataformas digitais. Minha trajetória combina experiência técnica em ambientes web com vivência em contextos institucionais e corporativos, sempre orientado à clareza da informação, usabilidade e qualidade visual. 
 
-Desde setembro de 2025, atuo como estagiário na Controladoria-Geral do Distrito Federal, na Subcontroladoria de Transparência e Controle Social. Colaboro com a gestão dos sites institucionais, apoiando na organização de conteúdo, aprimoramento visual e funcional dos layouts, além da manutenção e evolução das plataformas digitais.
+Atuo com desenvolvimento e manutenção de sites institucionais, organização de conteúdo digital, aprimoramento de layouts e componentes funcionais, além da aplicação prática de HTML, CSS e JavaScript. Possuo experiência com versionamento de código utilizando Git e GitHub, desenvolvimento de projetos em JavaScript com foco em lógica de programação e orientação a objetos, e colaboração com equipes multidisciplinares para tradução de layouts visuais em interfaces funcionais.
 
-Meu objetivo é integrar conhecimentos técnicos e financeiros para contribuir em projetos que promovam inovação tecnológica e resultados consistentes. Com habilidades em Python e programação lógica, almejo unir minha formação em tecnologia com minha experiência prévia em finanças para resolver desafios de forma criativa e eficiente.  
+Busco integrar conhecimentos técnicos e analíticos para contribuir em projetos digitais que valorizem experiência do usuário, organização da informação e evolução contínua das plataformas. Estou aberto a oportunidades que envolvam desenvolvimento front-end, manutenção de ativos digitais e colaboração com times de tecnologia, design e conteúdo.  
 
 ---
 
