@@ -40,5 +40,12 @@ Busco integrar conhecimentos técnicos e analíticos para contribuir em projetos
 
 ---
 
+## 🏅 Certificado 
+- Formação em **Lógica de Programação**
+- Formação em **HTML Web Developer**   
+- **Campus Expert-DIO 14** 
+
+---
+
 
 
