@@ -1,5 +1,11 @@
 # <center>Bem-vindo ao meu GitHub! 👋 </center>
 
+<div align="center">  
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leonardo2891&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" />   
+  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo2891&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+</div>
+
 ## 🚀 Sobre mim  
 Sou estudante de Análise e Desenvolvimento de Sistemas, com formação complementar em Finanças, atuando na área de desenvolvimento front-end com foco em organização, manutenção e evolução de plataformas digitais. Minha trajetória combina experiência técnica em ambientes web com vivência em contextos institucionais e corporativos, sempre orientado à clareza da informação, usabilidade e qualidade visual. 
 
