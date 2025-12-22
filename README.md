@@ -9,13 +9,19 @@ Busco integrar conhecimentos técnicos e analíticos para contribuir em projetos
 
 
 ## 🛠️ Tecnologias  
-<center><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=50px><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=50px><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=50px><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width=50px></center>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50px">
+</p>
 
 
 ## 📊 Estatísticas do GitHub  
-![Leonardo Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo2891&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo2891&exclude_repo=github-readme-stats,anuraghazra.github.io)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leonardo2891&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo2891&exclude_repo=github-readme-stats,anuraghazra.github.io" />
+</div>
 
 
 ## 🎓 Formação  
