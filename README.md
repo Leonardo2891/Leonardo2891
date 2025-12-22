@@ -17,13 +17,6 @@ Busco integrar conhecimentos técnicos e analíticos para contribuir em projetos
 </p>
 
 
-## 📊 Estatísticas do GitHub  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leonardo2891&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo2891&theme=dark" />
-</div>
-
-
 ## 🎓 Formação  
 - CST em **Análise e Desenvolvimento de Sistemas** – Faculdade Senac DF  
 - MBA em **Finanças e Mercado de Capitais** – Descomplica Faculdade Digital  
