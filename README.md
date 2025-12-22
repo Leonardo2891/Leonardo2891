@@ -1,4 +1,4 @@
-# Bem-vindo ao meu GitHub! 👋 
+# <center>Bem-vindo ao meu GitHub! 👋 </center>
 
 ## 🚀 Sobre mim  
 Sou estudante de Análise e Desenvolvimento de Sistemas, com formação complementar em Finanças, atuando na área de desenvolvimento front-end com foco em organização, manutenção e evolução de plataformas digitais. Minha trajetória combina experiência técnica em ambientes web com vivência em contextos institucionais e corporativos, sempre orientado à clareza da informação, usabilidade e qualidade visual. 
@@ -9,20 +9,16 @@ Busco integrar conhecimentos técnicos e analíticos para contribuir em projetos
 
 
 ## 🛠️ Tecnologias  
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<center><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=50px> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=50px>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=50px>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width=50px></center>
 
 
 ## 📊 Estatísticas do GitHub  
+![Leonardo Oliveira GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo2891&show_icons=true&theme=dark)
 
-[![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leonardo2891&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Leonardo2891&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Leonardo2891&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo2891&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 
 ## 🎓 Formação  
@@ -32,8 +28,8 @@ Busco integrar conhecimentos técnicos e analíticos para contribuir em projetos
 
 
 ## 🏅 Certificado 
-- Formação em **Lógica de Programação**
-- Formação em **HTML Web Developer**   
+- Formação em **Lógica de Programação** | [Certificado](https://hermes.dio.me/certificates/A2ITZXMZ.pdf)
+- Formação em **HTML Web Developer** | [Certificado](https://hermes.dio.me/certificates/ZNFCRKFC.pdf) 
 - **Campus Expert-DIO 14** 
 
 
