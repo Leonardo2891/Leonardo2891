@@ -20,7 +20,7 @@ Busco integrar conhecimentos técnicos e analíticos para contribuir em projetos
 ## 📊 Estatísticas do GitHub  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leonardo2891&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo2891&exclude_repo=github-readme-stats,anuraghazra.github.io" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo2891&theme=dark" />
 </div>
 
 
