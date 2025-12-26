@@ -29,7 +29,8 @@ Busco integrar conhecimentos técnicos e analíticos para contribuir em projetos
 ## 🏅 Certificado 
 - Formação em **Lógica de Programação** | [Certificado](https://hermes.dio.me/certificates/A2ITZXMZ.pdf)
 - Formação em **HTML Web Developer** | [Certificado](https://hermes.dio.me/certificates/ZNFCRKFC.pdf) 
-- **Campus Expert-DIO 14** 
+- **Campus Expert-DIO 14**
+- Formação em **GitHub Certification** | [Certificado](https://hermes.dio.me/certificates/N8ZGHTN4.pdf) 
 
 
 
