@@ -1,9 +1,9 @@
 <h1 align="center">Bem-vindo ao meu GitHub! 👋 </h1>
 
 <div align="center">  
-    
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo2891&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
-  
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Leonardo2891&layout=compact&title_color=80F7D4&text_color=ffffff&bg_color=0d1117&border_color=00000000"
+  />
 </div>
 
 ## 🚀 Sobre mim  
