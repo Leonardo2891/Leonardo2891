@@ -16,7 +16,7 @@ Busco integrar conhecimentos técnicos e analíticos para contribuir em projetos
 
 ## 🛠️ Tecnologias  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,git,github,python,mysql&theme=dark" />
 </p>
 
 
