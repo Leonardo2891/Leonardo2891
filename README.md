@@ -7,11 +7,11 @@
 </div>
 
 ## 🚀 Sobre mim  
-Sou estudante de Análise e Desenvolvimento de Sistemas, com formação complementar em Finanças, atuando na área de desenvolvimento front-end com foco em organização, manutenção e evolução de plataformas digitais. Minha trajetória combina experiência técnica em ambientes web com vivência em contextos institucionais e corporativos, sempre orientado à clareza da informação, usabilidade e qualidade visual. 
+Sou estudante de Análise e Desenvolvimento de Sistemas com sólida formação acadêmica em Finanças (MBA) e experiência prática na organização e manutenção de ativos digitais. Minha atuação é pautada pela clareza da informação, lógica de programação e aplicação de conhecimentos técnicos em SQL e Python para a estruturação de dados e processos institucionais.
 
-Atuo com desenvolvimento e manutenção de sites institucionais, organização de conteúdo digital, aprimoramento de layouts e componentes funcionais, além da aplicação prática de HTML, CSS e JavaScript. Possuo experiência com versionamento de código utilizando Git e GitHub, desenvolvimento de projetos em JavaScript com foco em lógica de programação e orientação a objetos, e colaboração com equipes multidisciplinares para tradução de layouts visuais em interfaces funcionais.
+Com vivência em contextos corporativos e governamentais, atuo no aprimoramento de plataformas digitais e na organização de conteúdo estratégico. Possuo domínio em versionamento de código via Git/GitHub e busco integrar competências analíticas para evolução contínua de indicadores e conformidade organizacional.
 
-Busco integrar conhecimentos técnicos e analíticos para contribuir em projetos digitais que valorizem experiência do usuário, organização da informação e evolução contínua das plataformas. Estou aberto a oportunidades que envolvam desenvolvimento front-end, manutenção de ativos digitais e colaboração com times de tecnologia, design e conteúdo.  
+Meu objetivo é aplicar minha expertise técnica e financeira em projetos que demandem rigor analítico, automação de processos e governança de dados. Estou aberto a colaborações com times de tecnologia e gestão que valorizem a integridade da informação e a eficiência operacional.  
 
 
 ## 🛠️ Tecnologias  
