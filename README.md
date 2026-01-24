@@ -31,6 +31,7 @@ Busco integrar conhecimentos técnicos e analíticos para contribuir em projetos
 - **Campus Expert-DIO 14** | [Certificado](https://drive.google.com/file/d/1Wa2uXPxTzPBuOdm6PgKyuBv0MYq36avv/view)
 - Formação em **GitHub Certification** | [Certificado](https://hermes.dio.me/certificates/N8ZGHTN4.pdf)
 - Formação em **Fundamentos de Inteligência Artificial** | [Certificado](https://hermes.dio.me/certificates/UX51RCKB.pdf)
+- **Fundamentos do Hardware do Computador** | [Certificado](https://www.credly.com/badges/986c0c2f-5941-42e9-b3d9-f67d69ad9101)
 
 
 
